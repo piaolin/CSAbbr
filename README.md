@@ -120,29 +120,27 @@
 | APT     | Advanced Persistent Threat                         | 高级持续性威胁       |                                                    |
 | APT     | Advanced Packaging Tool                            | 高级包管理工具       |                                                    |
 | DOM     | Document Object Model                              | 文档对象模型         |                                                    |
-|         |                                                    |                      |                                                    |
-|         |                                                    |                      |                                                    |
-|         |                                                    |                      |                                                    |
-|         |                                                    |                      |                                                    |
-|         |                                                    |                      |                                                    |
-|         |                                                    |                      |                                                    |
+| JNLP    | Java Network Launch Protocol                       |                      |                                                    |
+| JRMP    | Java Remote Method Protocol                        | Java远程方法协议     | JAVA RMI依赖JRMP                                   |
+| JRMP    | Java Remote Messaging Protocol                     | Java远程消息交换协议 |                                                    |
+| OGNL    | Object-Graph Navigation Language                   | 对象图导航语言       |                                                    |
+| POJO    | Plain Ordinary Java Object                         | 普通Java对象         |                                                    |
+| JSTL    | Java server pages standarded tag library           | Java标准标签库       |                                                    |
 
 # 安全机构与证书
 
-| 缩写  | 全称                                                       | 解释                   | 备注 |
-| ----- | ---------------------------------------------------------- | ---------------------- | ---- |
-| CISA  | Certified Information Systems Auditor                      | 国际信息系统审计师     |      |
-| CISM  | Certified Information Security Member                      | 认证信息系统安全经理   |      |
-| CISSP | Certification for Information System Security Professional | 信息系统安全专业认证   |      |
-| ISACA | Information Systems Audit and Control Association          | 信息系统审计与控制协会 |      |
-| ISC   | Internet Security Conference                               | 互联网安全大会         |      |
-|       |                                                            |                        |      |
-|       |                                                            |                        |      |
-|       |                                                            |                        |      |
-|       |                                                            |                        |      |
-|       |                                                            |                        |      |
-|       |                                                            |                        |      |
-|       |                                                            |                        |      |
+| 缩写  | 全称                                                       | 解释                      | 备注                   |
+| ----- | ---------------------------------------------------------- | ------------------------- | ---------------------- |
+| CISA  | Certified Information Systems Auditor                      | 国际信息系统审计师        |                        |
+| CISM  | Certified Information Security Member                      | 认证信息系统安全经理      |                        |
+| CISSP | Certification for Information System Security Professional | 信息系统安全专业认证      |                        |
+| ISACA | Information Systems Audit and Control Association          | 信息系统审计与控制协会    |                        |
+| ISC   | Internet Security Conference                               | 互联网安全大会            |                        |
+| SCA   | Software Composition Analysis                              | 软件成分分析/软件组合分析 |                        |
+| CPE   | Common Platform Enumeration                                | 通用平台枚举项            | 对IT产品的统一命名规范 |
+| CVE   | Common Vulnerabilities & Exposures                         | 公共漏洞和暴露            |                        |
+|       |                                                            |                           |                        |
+|       |                                                            |                           |                        |
 
 # 安全解决方案与标准
 
@@ -166,3 +164,6 @@
 | ISO   | International Organization for Standardization            | 国际标准化组织           |                                             |
 | SaaS  | Software as a Service                                     | 软件服务化               |                                             |
 | SSO   | SingleSignOn                                              | 单点登录                 |                                             |
+| OTP   | One Time Password                                         | 一次性密码               |                                             |
+|       |                                                           |                          |                                             |
+|       |                                                           |                          |                                             |
